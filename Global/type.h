@@ -20,4 +20,8 @@ typedef float  real;
 typedef double real;
 #endif
 
+typedef char   boolean;
+#define true  1
+#define false 0
+
 #endif // TYPE_H
