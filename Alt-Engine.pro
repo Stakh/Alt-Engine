@@ -9,4 +9,5 @@ HEADERS += \
     global.h \
     Global/type.h \
     Global/config.h \
-    Global/system.h
+    Global/system.h \
+    video.h
